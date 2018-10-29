@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">库存扫码</string>
+    <string name="app_return">ㄑ返回</string>
+    <string name="app_text_num">%s 条</string>
+</resources>
